@@ -1,8 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Gryffindor Common Room","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":false,"name":"Boy's Dorm","order":2,"parentId":1,"scrollX":819,"scrollY":461},
-{"id":3,"expanded":false,"name":"Floor 2 Corridor","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"Transfiguration Classroom","order":4,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":5,"expanded":false,"name":"Entrance Hall","order":5,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":1,"expanded":true,"name":"Gryffindor Common Room","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":2,"expanded":false,"name":"Boy's Dorm","order":2,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":3,"expanded":false,"name":"Floor 2 Corridor","order":6,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":4,"expanded":false,"name":"Transfiguration Classroom","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":5,"expanded":false,"name":"Entrance Hall","order":4,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
+{"id":6,"expanded":false,"name":"Great Hall","order":3,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
 ]
