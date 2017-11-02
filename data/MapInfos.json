@@ -1,9 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Gryffindor Common Room","order":1,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":2,"expanded":false,"name":"Boy's Dorm","order":2,"parentId":1,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":3,"expanded":false,"name":"Floor 2 Corridor","order":6,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":4,"expanded":false,"name":"Transfiguration Classroom","order":5,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":5,"expanded":false,"name":"Entrance Hall","order":4,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999},
-{"id":6,"expanded":false,"name":"Great Hall","order":3,"parentId":0,"scrollX":982.8,"scrollY":553.1999999999999}
+{"id":1,"expanded":false,"name":"Gryffindor Common Room","order":1,"parentId":0,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":2,"expanded":false,"name":"Boy's Dorm","order":2,"parentId":1,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":3,"expanded":true,"name":"Floor 2 Corridor","order":5,"parentId":5,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":4,"expanded":false,"name":"Transfiguration Classroom","order":6,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Entrance Hall","order":4,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"Great Hall","order":3,"parentId":0,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":7,"expanded":false,"name":"Slytherin Common Room","order":12,"parentId":0,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":8,"expanded":false,"name":"Boy's Dorm S","order":13,"parentId":7,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":9,"expanded":true,"name":"Dungeon Corridor","order":7,"parentId":5,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":10,"expanded":false,"name":"Potion's Classroom","order":8,"parentId":9,"scrollX":980.4,"scrollY":553.1999999999999},
+{"id":11,"expanded":true,"name":"East Corridor","order":9,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"Library","order":10,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"Charms Classroom","order":11,"parentId":11,"scrollX":832,"scrollY":640}
 ]
