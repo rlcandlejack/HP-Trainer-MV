@@ -12,5 +12,6 @@ var $plugins =
 {"name":"YEP_SelfSwVar","status":true,"description":"v1.03 Self Switches and Self Variables functionality\nwithout the need for plugin commands or script calls.","parameters":{}},
 {"name":"HIME_HiddenChoiceConditions","status":true,"description":"Allows you to hide choices with a simple event call","parameters":{}},
 {"name":"GameusQuestSystem","status":true,"description":"v1.0 - A simplistic quest system with various customization options.","parameters":{"Auto Rewards":"true","---------------":"","Words":"","Hidden Reward Text":"??????","No Quests Text":"No Quests","All Word":"All","Completed Word":"Completed","Failed Word":"Failed","In-Progress Word":"In-Progress","Steps Word":"Steps","Rewards Word":"Rewards","Display Options":"","Reverse Layout":"false","Filter Position":"Top","Use Categories":"true","Show Empty Categories":"0","Show Quest Count":"true","Bullet Character":"-","Max Steps":"3","Image Options":"","Use Icons":"true","Completed Image":"","Completed Image Opacity":"128","Failed Image":"","Failed Image Opacity":"128"}},
-{"name":"HIME_HMSHideMessageWindow","status":true,"description":"v1.0 -","parameters":{"Hide Button":"tab"}}
+{"name":"HIME_HMSHideMessageWindow","status":true,"description":"v1.0 -","parameters":{"Hide Button":"tab"}},
+{"name":"HIME_LargeChoices","status":true,"description":"v1.2 - Combines multiple show choice commands into a single,\r\nlarge list.","parameters":{}}
 ];
