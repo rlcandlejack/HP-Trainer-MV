@@ -21,7 +21,7 @@ null,
 {"id":19,"expanded":false,"name":"Courtyard","order":22,"parentId":0,"scrollX":809,"scrollY":643},
 {"id":20,"expanded":false,"name":"Baths","order":14,"parentId":17,"scrollX":817,"scrollY":461},
 {"id":21,"expanded":false,"name":"B Bath","order":15,"parentId":20,"scrollX":817,"scrollY":461},
-{"id":22,"expanded":false,"name":"Herbology","order":23,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":22,"expanded":false,"name":"Herbology","order":23,"parentId":0,"scrollX":817,"scrollY":461},
 {"id":23,"expanded":false,"name":"Lake","order":24,"parentId":0,"scrollX":809,"scrollY":461},
 {"id":24,"expanded":false,"name":"G Bath","order":16,"parentId":20,"scrollX":832,"scrollY":640},
 {"id":25,"expanded":false,"name":"Hospital Wing","order":25,"parentId":0,"scrollX":817,"scrollY":461}
