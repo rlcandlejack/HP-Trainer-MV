@@ -1,1 +1,1 @@
-[["Story","Gathering","Ivalice","Bounties"],{"id":1,"icon":7,"cat":0,"name":"First Steps","desc":"Figure out how you will corrupt Hermione","steps":[["Talk to Prof. Snape",false,33,1,false]],"rewards":[["item",8,1,false]]}]
+[["Story","Gathering","Ivalice","Bounties"],{"id":1,"icon":7,"cat":0,"name":"First Steps","desc":"Figure out how you will corrupt Hermione","steps":[["Approach Hermione",false,1,1,false],["Talk to Prof. Snape",false,1,1,false],["Use the Confundus Charm on Hermione",false,1,1,false]],"rewards":[]}]
